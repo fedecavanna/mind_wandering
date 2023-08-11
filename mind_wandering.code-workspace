@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\_common"
+		}
+	],
+	"settings": {
+		"launch": {
+			"version": "0.0.1",
+			"configurations": [
+				{
+					"type": "python",					
+					"name": "Python: Current File",					
+					"request": "launch",
+					"program": "${file}",
+					"console": "internalConsole",
+					"env": {"PYDEVD_WARN_SLOW_RESOLVE_TIMEOUT": "2"}
+				}
+			]
+		}
+	}
+}
