@@ -1,10 +1,12 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "_common",
+			"path": "../_common"
 		},
 		{
-			"path": "..\\_common"
+			"name": "mind_wandering",
+			"path": "."
 		}
 	],
 	"settings": {
